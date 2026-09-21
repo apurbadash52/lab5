@@ -1,0 +1,7 @@
+Policy,Expert agreement %,Return (Balanced R),Danger-zone time %,Ideal-band time %,Wall-lost time %,Forward moves %
+Expert (majority),83.3,7.5,10.9,20.1,4.1,35.7
+Balanced,43.4,20.7,3.5,42.2,2.1,37.5
+Safety-First,27.3,18.4,0.8,38.9,4.2,38.8
+Speed-First,41.9,14.5,6.6,33.5,2.5,78.7
+Expert-Imitation,52.2,20.3,4.5,34.8,2.7,46.8
+Random,10.4,-40.6,47.0,3.7,27.7,24.8
